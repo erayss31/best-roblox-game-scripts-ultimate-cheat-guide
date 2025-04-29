@@ -15,3 +15,46 @@ loadstring(game:HttpGet('https://pastebin.com/raw/idKUExya'))()
 
 SCP: Roleplay https://discord.gg/2BcDkp2yww (key)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/axleoislost/NullZen/main/Scp-Roleplay'))()
+
+Blue Lock Rıvals
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/game/refs/heads/main/TbaoHubBlueLockRivals"))()
+
+Mic Up
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EnterpriseExperience/MicUpSource/refs/heads/main/v6-beta')))()
+
+3008
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/Main.cpp"))()
+
+GunFight Arena (Hitbox,Esp)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ex5s/weedclient/refs/heads/main/main.lua", true))()
+
+Fruit Battlegrounds
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KirillEee/Askien-Hub/refs/heads/main/AskienHub"))()
+
+Big Paintball 2  (F) Button
+https://pastebin.com/raw/8znq2FSU
+
+Dead Rails
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Just3itx/Lunor-Loadstrings/refs/heads/main/Loader'))()
+
+Da Hood
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cool5013/TBO/main/TBOscript"))();
+
+Fisch
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+
+Bee Swarm Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/refs/heads/main/Bee%20Swarm%20Sim.Lua",true))()
+
+Power Slap Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/PowerSlap.lua"))()
+
+BlockSpin
+loadstring(game:HttpGet("https://pastefy.app/zG15HNjM/raw"))();
+
+Basketball Zero
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IAmJamal10/Scripts/refs/heads/main/Zero"))()
+
+Combat Warriors
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ddario66/Test/refs/heads/main/Combat%20warrior"))()
+
